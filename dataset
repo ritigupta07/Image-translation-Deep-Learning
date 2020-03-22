@@ -1,1 +1,11 @@
 https://drive.google.com/open?id=1NpfdqyPMz-bfKLtFZG4xFL7GZFIX8oqo
+
+dataset_298/english contains images with text in English
+dataset_298/hindi contains images with text in Hindi
+
+each image title number are corresponding images in English and Hindi
+english/1.jpeg --> hindi/1.jpeg
+english/2.jpeg --> hindi/2.jpeg
+...
+...
+...
